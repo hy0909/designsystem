@@ -171,7 +171,7 @@
 | `위험`    | 주황 계열    | 높은 위험 수준           |
 | `사고형`  | 빨간 계열    | 사고 발생 수준           |
 
-> 정확한 badge 값 및 색상 토큰은 badge 컴포넌트 명세 참조 필요.
+> 정확한 badge 값 및 색상 토큰은 badge 컴포넌트 md 참조 필요.
 
 ---
 
@@ -260,8 +260,8 @@ interface DataTableRow {
 
 ## Related
 
-- [ ] [Badge Component](./badge.md) — 위험 단계 badge 컴포넌트 명세
-- [ ] [Data Table Column](./data-table-column.md) — 개별 컬럼 컴포넌트 명세
+- [ ] [Badge Component](./badge.md) — 위험 단계 badge 컴포넌트 md
+- [ ] [Data Table Column](./data-table-column.md) — 개별 컬럼 컴포넌트 md
 - [ ] [Empty State Guidelines](./empty-state.md) — Empty State 패턴 가이드
-- [ ] [Status Dropdown](./status-dropdown.md) — 상태 드롭다운 컴포넌트 명세
+- [ ] [Status Dropdown](./status-dropdown.md) — 상태 드롭다운 컴포넌트 md
 - [ ] [Figma Plugin Spec](./figma-plugin-spec.md) — 작성 예정
